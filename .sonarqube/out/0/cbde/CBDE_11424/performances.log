@@ -1,0 +1,794 @@
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Areas\Identity\IdentityHostingStartup.cs
+Configure 13
+Configure -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Areas\Identity\Pages\Account\AccessDenied.cshtml.cs
+OnGet 17
+OnGet -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.cs
+OnGetAsync 1
+OnGetAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.cs
+OnGetAsync 1
+OnGetAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Areas\Identity\Pages\Account\ExternalLogin.cshtml.cs
+OnGetAsync 20
+OnGetAsync -1
+OnPost 6
+OnPost -1
+OnGetCallbackAsync 1
+OnGetCallbackAsync -1
+OnPostConfirmationAsync 2
+OnPostConfirmationAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Areas\Identity\Pages\Account\ForgotPassword.cshtml.cs
+OnPostAsync 1
+OnPostAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.cs
+OnGet 1
+OnGet -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Areas\Identity\Pages\Account\Lockout.cshtml.cs
+OnGet 1
+OnGet -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Areas\Identity\Pages\Account\Login.cshtml.cs
+OnGetAsync 1
+OnGetAsync -1
+OnPostAsync 1
+OnPostAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.cs
+OnGetAsync 1
+OnGetAsync -1
+OnPostAsync 1
+OnPostAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.cs
+OnGetAsync 1
+OnGetAsync -1
+OnPostAsync 1
+OnPostAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Areas\Identity\Pages\Account\Logout.cshtml.cs
+OnGet 2
+OnGet -1
+OnPost 1
+OnPost -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.cs
+OnGetAsync 2
+OnGetAsync -1
+OnPostAsync 1
+OnPostAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.cs
+OnGet 1
+OnGet -1
+OnPostAsync 1
+OnPostAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.cs
+OnGet 1
+OnGet -1
+OnPostAsync 1
+OnPostAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.cs
+OnPostAsync 1
+OnPostAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Areas\Identity\Pages\Account\Manage\Email.cshtml.cs
+LoadAsync 1
+LoadAsync -1
+OnGetAsync 1
+OnGetAsync -1
+OnPostChangeEmailAsync 1
+OnPostChangeEmailAsync -1
+OnPostSendVerificationEmailAsync 1
+OnPostSendVerificationEmailAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.cs
+OnGetAsync 1
+OnGetAsync -1
+OnPostAsync 1
+OnPostAsync -1
+LoadSharedKeyAndQrCodeUriAsync 1
+LoadSharedKeyAndQrCodeUriAsync -1
+FormatKey 9
+FormatKey -1
+GenerateQrCodeUri 4
+GenerateQrCodeUri -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.cs
+OnGetAsync 1
+OnGetAsync -1
+OnPostRemoveLoginAsync 1
+OnPostRemoveLoginAsync -1
+OnPostLinkLoginAsync 1
+OnPostLinkLoginAsync -1
+OnGetLinkLoginCallbackAsync 1
+OnGetLinkLoginCallbackAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.cs
+OnGetAsync 1
+OnGetAsync -1
+OnPostAsync 1
+OnPostAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Areas\Identity\Pages\Account\Manage\Index.cshtml.cs
+LoadAsync 1
+LoadAsync -1
+OnGetAsync 1
+OnGetAsync -1
+OnPostAsync 1
+OnPostAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Areas\Identity\Pages\Account\Manage\ManageNavPages.cs
+IndexNavClass 3
+IndexNavClass -1
+EmailNavClass 1
+EmailNavClass -1
+ChangePasswordNavClass 1
+ChangePasswordNavClass -1
+DownloadPersonalDataNavClass 1
+DownloadPersonalDataNavClass -1
+DeletePersonalDataNavClass 1
+DeletePersonalDataNavClass -1
+ExternalLoginsNavClass 1
+ExternalLoginsNavClass -1
+PersonalDataNavClass 10
+PersonalDataNavClass -1
+TwoFactorAuthenticationNavClass 1
+TwoFactorAuthenticationNavClass -1
+PageNavClass 1
+PageNavClass -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.cs
+OnGet 1
+OnGet -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.cs
+OnGet 1
+OnGet -1
+OnPostAsync 1
+OnPostAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.cs
+OnGetAsync 1
+OnGetAsync -1
+OnPostAsync 1
+OnPostAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.cs
+OnGet 2
+OnGet -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.cs
+OnGet 1
+OnGet -1
+OnPost 1
+OnPost -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Areas\Identity\Pages\Account\Register.cshtml.cs
+OnGetAsync 1
+OnGetAsync -1
+OnPostAsync 1
+OnPostAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.cs
+OnGetAsync 1
+OnGetAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.cs
+OnGet 1
+OnGet -1
+OnPostAsync 1
+OnPostAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Areas\Identity\Pages\Account\ResetPassword.cshtml.cs
+OnGet 4
+OnGet -1
+OnPostAsync 1
+OnPostAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.cs
+OnGet 1
+OnGet -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Areas\Identity\Pages\Error.cshtml.cs
+OnGet 1
+OnGet -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Controllers\AdministrationController.cs
+ListWithUsers 1
+ListWithUsers -1
+EditRole 3
+EditRole -1
+GiveEmail 1
+GiveEmail -1
+Delete 1
+Delete -1
+DeleteConfirmed 1
+DeleteConfirmed -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Controllers\HallCinemaController.cs
+AddNewCinemaHall 1
+AddNewCinemaHall -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Controllers\HomeController.cs
+Index 2
+Index -1
+Privacy 2
+Privacy -1
+Error 1
+Error -1
+ListWithMovie 2
+ListWithMovie -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Controllers\LocationController.cs
+Index 2
+Index -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Controllers\MoviesController.cs
+Index 1
+Index -1
+Details 1
+Details -1
+FillLocationsOfCinema 1
+FillLocationsOfCinema -1
+FillDateOfBooking 1
+FillDateOfBooking -1
+Create 1
+Create -1
+FillGenreFromMovie 1
+FillGenreFromMovie -1
+Create 1
+Create -1
+Edit 1
+Edit -1
+Edit 1
+Edit -1
+Delete 1
+Delete -1
+DeleteConfirmed 1
+DeleteConfirmed -1
+MovieExists 1
+MovieExists -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Controllers\RunningTimeController.cs
+ViewRanTimeMovie 1
+ViewRanTimeMovie -1
+AddMovieRunTime 1
+AddMovieRunTime -1
+EditMovieRunTime 1
+EditMovieRunTime -1
+Delete 1
+Delete -1
+RunningTimeExists 1
+RunningTimeExists -1
+VerifyCinemaHallandDate 1
+VerifyCinemaHallandDate -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Controllers\SeatsController.cs
+ListOfSeats 1
+ListOfSeats -1
+FillSeatsStatus 1
+FillSeatsStatus -1
+CreateReservation 1
+CreateReservation -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Data\ApplicationDbContext.cs
+OnModelCreating 1
+OnModelCreating -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Data\Migrations\00000000000000_CreateIdentitySchema.cs
+Up 1
+Up -1
+Down 3
+Down -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Data\Migrations\00000000000000_CreateIdentitySchema.Designer.cs
+BuildTargetModel 1
+BuildTargetModel -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Data\Migrations\20200702120930_extend_IdentityUser.cs
+Up 2
+Up -1
+Down 2
+Down -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Data\Migrations\20200702120930_extend_IdentityUser.Designer.cs
+BuildTargetModel 1
+BuildTargetModel -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Data\Migrations\20200702122615_MovieField.cs
+Up 1
+Up -1
+Down 2
+Down -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Data\Migrations\20200702122615_MovieField.Designer.cs
+BuildTargetModel 1
+BuildTargetModel -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Data\Migrations\20200702123358_GenreType.cs
+Up 1
+Up -1
+Down 2
+Down -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Data\Migrations\20200702123358_GenreType.Designer.cs
+BuildTargetModel 1
+BuildTargetModel -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Data\Migrations\20200702135238_Movies_Genre.cs
+Up 4
+Up -1
+Down 4
+Down -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Data\Migrations\20200702135238_Movies_Genre.Designer.cs
+BuildTargetModel 1
+BuildTargetModel -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Data\Migrations\20200703192828_MoviePhoto.cs
+Up 2
+Up -1
+Down 2
+Down -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Data\Migrations\20200703192828_MoviePhoto.Designer.cs
+BuildTargetModel 1
+BuildTargetModel -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Data\Migrations\20200707200647_UserReservation.cs
+Up 1
+Up -1
+Down 2
+Down -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Data\Migrations\20200707200647_UserReservation.Designer.cs
+BuildTargetModel 1
+BuildTargetModel -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Data\Migrations\20200707202430_MovieReservation.cs
+Up 2
+Up -1
+Down 2
+Down -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Data\Migrations\20200707202430_MovieReservation.Designer.cs
+BuildTargetModel 1
+BuildTargetModel -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Data\Migrations\20200709144138_DurationMovie.cs
+Up 2
+Up -1
+Down 2
+Down -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Data\Migrations\20200709144138_DurationMovie.Designer.cs
+BuildTargetModel 1
+BuildTargetModel -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Data\Migrations\20200724150229_Reservation.cs
+Up 184
+Up -1
+Down 1
+Down -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Data\Migrations\20200724150229_Reservation.Designer.cs
+BuildTargetModel 1
+BuildTargetModel -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Data\Migrations\20200821165028_MovieGenre.cs
+Up 1
+Up -1
+Down 2
+Down -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Data\Migrations\20200821165028_MovieGenre.Designer.cs
+BuildTargetModel 1
+BuildTargetModel -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Data\Migrations\20200830161153_Reservation-Cinema-Seat.cs
+Up 2
+Up -1
+Down 4
+Down -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Data\Migrations\20200830161153_Reservation-Cinema-Seat.Designer.cs
+BuildTargetModel 1
+BuildTargetModel -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Data\Migrations\20200830213257_SeedSeatCompleted.cs
+Up 3
+Up -1
+Down 2
+Down -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Data\Migrations\20200830213257_SeedSeatCompleted.Designer.cs
+BuildTargetModel 1
+BuildTargetModel -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Data\Migrations\20200906151626_RunningTime.cs
+Up 1
+Up -1
+Down 2
+Down -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Data\Migrations\20200906151626_RunningTime.Designer.cs
+BuildTargetModel 1
+BuildTargetModel -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Data\Migrations\20200906195611_RunningTimess.cs
+Up 3
+Up -1
+Down 3
+Down -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Data\Migrations\20200906195611_RunningTimess.Designer.cs
+BuildTargetModel 1
+BuildTargetModel -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Data\Migrations\20200913090243_DeleteField.cs
+Up 2
+Up -1
+Down 2
+Down -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Data\Migrations\20200913090243_DeleteField.Designer.cs
+BuildTargetModel 1
+BuildTargetModel -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Data\Migrations\20200914221156_AddStartDatePK.cs
+Up 2
+Up -1
+Down 2
+Down -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Data\Migrations\20200914221156_AddStartDatePK.Designer.cs
+BuildTargetModel 2
+BuildTargetModel -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Data\Migrations\20200916170221_SeatNR.cs
+Up 2
+Up -1
+Down 2
+Down -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Data\Migrations\20200916170221_SeatNR.Designer.cs
+BuildTargetModel 1
+BuildTargetModel -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Data\Migrations\20201210131410_Location.cs
+Up 1
+Up -1
+Down 2
+Down -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Data\Migrations\20201210131410_Location.Designer.cs
+BuildTargetModel 1
+BuildTargetModel -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Data\Migrations\20201210160312_Locations.cs
+Up 3
+Up -1
+Down 3
+Down -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Data\Migrations\20201210160312_Locations.Designer.cs
+BuildTargetModel 2
+BuildTargetModel -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Data\Migrations\ApplicationDbContextModelSnapshot.cs
+BuildModel 1
+BuildModel -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Models\CinemaHall.cs
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Models\ErrorViewModel.cs
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Models\Genre.cs
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Models\Location.cs
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Models\Movie.cs
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Models\MovieGenre.cs
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Models\MyUser.cs
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Models\Reservation.cs
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Models\RunningTime.cs
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Models\Seat.cs
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Models\SeatReservation.cs
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Program.cs
+Main 3
+Main -1
+CreateHostBuilder 1
+CreateHostBuilder -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\Startup.cs
+ConfigureServices 2
+ConfigureServices -1
+Configure 2
+Configure -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\ViewModels\BookingModel.cs
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\ViewModels\CinemaHall.cs
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\ViewModels\MovieGenreViewModel.cs
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\ViewModels\ReservationViewModel.cs
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\ViewModels\RunningTimeViewModel.cs
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\ViewModels\SeatModel.cs
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\ViewModels\SeatsViewModel.cs
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\ViewModels\Test.cs
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\ViewModels\UserViewModel.cs
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\CinemaApp.AssemblyInfo.cs
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\CinemaApp.MvcApplicationPartsAssemblyInfo.cs
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\CinemaApp.RazorAssemblyInfo.cs
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+ExecuteAsync 8
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+ExecuteAsync 5
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Views\Administration\Delete.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ListWithUsers.cshtml.g.cs
+ExecuteAsync 3
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Views\Location\Index.cshtml.g.cs
+ExecuteAsync 4
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Create.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Delete.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Details.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Edit.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Index.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Views\Movies\MovieNotFound.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Views\RunningTime\CinemaNotFound.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Views\RunningTime\ViewRanTimeMovie.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Views\Seats\ListOfSeats.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+ExecuteAsync 8
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\Cezar\source\repos\CinemaApp\CinemaApp\obj\Debug\netcoreapp3.1\CinemaApp.RazorTargetAssemblyInfo.cs
+

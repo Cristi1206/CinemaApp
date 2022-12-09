@@ -1,0 +1,6 @@
+projectKey=CinemaApp
+serverUrl=http://localhost:9000
+serverVersion=8.6.0.39681
+dashboardUrl=http://localhost:9000/dashboard?id=CinemaApp
+ceTaskId=AXZrYTsu2ouhmemo_vLs
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXZrYTsu2ouhmemo_vLs
